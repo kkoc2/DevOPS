@@ -56,4 +56,4 @@ USSS.score = user_yaml['score']
 # Print the user object
 print('User object:')
 print(USSS)
-print(XXXX)
+print(YYY)
